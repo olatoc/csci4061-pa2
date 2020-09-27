@@ -98,12 +98,6 @@ This is the final phase of the program. Once all the mapper processes and the re
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Creates FinalResult.txt along with writing the values from letter_counts_final, from read_reducer_result, but is written through STOUT.
 
-# **• Your and your partner's individual contributions**  
-
-Oliver Latocki: wrote most of final code
-
-Jonathan: wrote code alternative to the final phases. (These can be found at the bottom of phase_x.c file, please note that uncommenting the code will not allow this function to run on this code)
-
 # • If you have attempted extra credit  
 
 We have.
